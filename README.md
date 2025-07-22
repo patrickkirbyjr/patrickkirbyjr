@@ -8,6 +8,8 @@ Feel free to look around and explore my projects.
 
 🔬 I am currently working on building a CNN to improve accuracy of colon cancer detection using histopathological images. 
 
+🔋 I am also exploring electric vehicle charging station data to identify holes in the charging network coverage area.
+
 
 <!--
 **patrickkirbyjr/patrickkirbyjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
