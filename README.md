@@ -1,5 +1,6 @@
-## Hi there 👋
+# Patrick Kirby Jr.
 
+## Welcome to my GitHub portfolio!
 <!--
 **patrickkirbyjr/patrickkirbyjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
