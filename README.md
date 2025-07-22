@@ -5,6 +5,7 @@
 Feel free to look around and explore my projects. 
 
 💊 I recently completed a bioinformatics project that predicts drug potency based on drug-mutation combinations.
+
 🔬 I am currently working on building a CNN to improve accuracy of colon cancer detection using histopathological images. 
 
 
