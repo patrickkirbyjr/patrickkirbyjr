@@ -4,11 +4,11 @@
 
 Feel free to look around and explore my projects. 
 
-💊 I recently completed a bioinformatics project that predicts drug potency based on drug-mutation combinations.
+💊 I recently completed a [bioinformatics project](https://github.com/patrickkirbyjr/Drug-Potency-Predictor) that predicts drug potency based on drug-mutation combinations.
 
-🔬 I am currently working on building a CNN to improve accuracy of colon cancer detection using histopathological images. 
+🔬 I am currently working on building a [CNN](https://github.com/patrickkirbyjr/Colon-Cancer-CNN) to improve accuracy of colon cancer detection using histopathological images. 
 
-🔋 I am also exploring electric vehicle charging station data to identify holes in the charging network coverage area.
+🔋 I am also exploring electric vehicle charging station data to identify holes in the charging network coverage area in the United States.
 
 
 <!--
