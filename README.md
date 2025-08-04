@@ -8,7 +8,7 @@ Feel free to look around and explore my projects.
 
 🔬 I am currently working on building a [CNN](https://github.com/patrickkirbyjr/Colon-Cancer-CNN) to improve accuracy of colon cancer detection using histopathological images. 
 
-🔋 I am also exploring electric vehicle charging station data to identify holes in the charging network coverage area in the United States.
+🔋 I am also exploring electric vehicle charging station data to identify holes in [charging network coverage](https://github.com/patrickkirbyjr/ev-infrastructure-analysis) in the United States.
 
 
 <!--
