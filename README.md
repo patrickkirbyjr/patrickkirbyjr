@@ -1,27 +1,9 @@
-# 👨 Patrick Kirby Jr.
+# Welcome, friend!
 
-## Welcome to my GitHub portfolio!
+Have a seat and stay a while. I'd love to show you some of my recent projects. Each one was inspired by one of my passions.
 
-Feel free to look around and explore my projects. 
+🔋 Electric vehicles are getting really good. As a result, I see more and more EVs on the road these days. It occurred to me that the charging infrastructure in the United States needs some work to support the transition from internal combustion to fully electric vehicles. My [charging network coverage](https://github.com/patrickkirbyjr/ev-infrastructure-analysis) project analyzed the current infrastructure and identified charging station gaps in the most underbuilt states.
 
-💊 I recently completed a [bioinformatics project](https://github.com/patrickkirbyjr/Drug-Potency-Predictor) that predicts drug potency based on drug-mutation combinations.
+💊 Precision medicine fascinates me. I just love the idea of using technology to save lives. I explored this field of medicine by creating a [bioinformatics project](https://github.com/patrickkirbyjr/Drug-Potency-Predictor) that predicts drug potency based on specific combinations of drugs and genetic mutations in cancer cell lines.
 
 🔬 I am currently working on building a [CNN](https://github.com/patrickkirbyjr/Colon-Cancer-CNN) to improve accuracy of colon cancer detection using histopathological images. 
-
-🔋 I am also exploring electric vehicle charging station data to identify holes in [charging network coverage](https://github.com/patrickkirbyjr/ev-infrastructure-analysis) in the United States.
-
-
-<!--
-**patrickkirbyjr/patrickkirbyjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
