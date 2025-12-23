@@ -1,9 +1,36 @@
-# Welcome, friend!
+# Patrick Kirby Jr.
+### MS Data Science | BS Biology
 
-Have a seat and stay a while. I'd love to show you some of my recent projects. Each one was inspired by one of my passions.
+## 🚀 Featured Projects
 
-🔋 Electric vehicles are getting really good. As a result, I see more and more EVs on the road these days. It occurred to me that the charging infrastructure in the United States needs some work to support the transition from internal combustion to fully electric vehicles. My [charging network coverage](https://github.com/patrickkirbyjr/ev-infrastructure-analysis) project analyzed the current infrastructure and identified charging station gaps in the most underbuilt states.
+### 💊 [Drug Potency Prediction Engine](https://github.com/patrickkirbyjr/Drug-Potency-Predictor)
+**Focus:** Bioinformatics & Cheminformatics  
+**Tech Stack:** Python, Gradio, Scikit-learn
 
-💊 Precision medicine fascinates me. I just love the idea of using technology to save lives. I explored this field of medicine by creating a [bioinformatics project](https://github.com/patrickkirbyjr/Drug-Potency-Predictor) that predicts drug potency based on specific combinations of drugs and genetic mutations in cancer cell lines.
+* **Objective:** Built a machine learning pipeline to predict IC50 values (drug potency) based on chemical structure and genomic features.
+* **Methodology:** Utilized **SMILES** strings and **Morgan fingerprints** for feature engineering to accurately represent molecular structures for regression modeling.
+* **Outcome:** Deployed a user-friendly web interface via **Gradio** allowing users to input chemical data and receive real-time potency predictions.
 
-🔬 I am currently working on building a [CNN](https://github.com/patrickkirbyjr/Colon-Cancer-CNN) to improve accuracy of colon cancer detection using histopathological images. 
+### 📊 **Longitudinal STEM Performance Analysis**
+**Focus:** Educational Data Mining & Statistics  
+**Tech Stack:** Python, Pandas, SciPy, Matplotlib
+
+* **Objective:** Analyzed anonymized student performance data (2023–2025) to determine the impact of class scheduling and class size on academic outcomes.
+* **Methodology:** Conducted rigorous hypothesis testing, including **Shapiro-Wilk** for normality checks and **Kruskal-Wallis** tests to identify statistically significant differences between student cohorts.
+* **Outcome:** Provided data-driven insights into how non-cognitive factors (time of day, cohort size) influence student success rates in STEM.
+
+### 🔋 [Electric Vehicle Infrastructure Gap Analysis](https://github.com/patrickkirbyjr/ev-infrastructure-analysis)
+**Focus:** Geospatial Analysis  
+**Tech Stack:** R, Data Visualization
+
+* **Objective:** Identified critical gaps in the current US electric vehicle charging network.
+* **Methodology:** Analyzed geographic distributions of charging stations against population and usage metrics to rank states by infrastructure deficiency.
+* **Outcome:** Produced a ranked list of "underbuilt" states to highlight high-priority areas for future infrastructure development.
+
+---
+
+## 🚧 Coming Soon / In Progress
+
+### 🏥 **Clinical Trial Data Analysis (R)**
+* **Focus:** CDISC Standards & Clinical Reporting
+* **Objective:** A demonstration of CDISC-compliant analysis of clinical trial datasets using **R** and the **Tidyverse**, focusing on regulatory-standard reporting and data visualization.
